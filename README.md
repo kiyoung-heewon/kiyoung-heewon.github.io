@@ -1,4 +1,4 @@
-# 최성운과 조보슬의 결혼식 모바일 청첩장
+# 김기영과 유희원의 결혼식 모바일 청첩장
 ![date](https://img.shields.io/date/1629630000.svg?style=for-the-badge)
 
 이 repository는 결혼식 초대를 위한 모바일청첩장입니다. 
@@ -7,6 +7,6 @@
 
 ## 예식정보
 
-* 날짜: 2021-08-22 11:00
-* 장소: 서울특별시 강남구 논현동 215 컨벤션헤리츠 (학동역 도보1분)
-* 청첩장: https://seongun-boseul-wedding.github.io
+* 날짜: 2021-09-22 13:00
+* 장소: 서울 관악구 관악로 1 서울대학교 호암교수회관 (낙성대 4번출구에서 관악 02로 약 5분)
+* 청첩장: https://kiyoung-heewon.github.io
