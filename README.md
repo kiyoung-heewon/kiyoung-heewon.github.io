@@ -1,6 +1,4 @@
 # 김기영과 유희원의 결혼식 모바일 청첩장
-![date](https://img.shields.io/date/1629630000.svg?style=for-the-badge)
-
 이 repository는 결혼식 초대를 위한 모바일청첩장입니다. 
 
 ![메인사진](https://github.com/kiyoung-heewon/kiyoung-heewon.github.io/blob/master/docs/images/main-background.jpg)
