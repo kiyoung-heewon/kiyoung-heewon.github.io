@@ -11,8 +11,6 @@ $('#go-to-top').click(function () {
     document.documentElement.scrollTop = 0;
 });
 
-// TODO:: 지도 주소랑 계좌번호 수정
-
 // account
 // Add your javascript here
 // Don't forget to add it into respective layouts where this js file is needed
