@@ -11,26 +11,26 @@ $('#go-to-top').click(function () {
     document.documentElement.scrollTop = 0;
 });
 
-
+// TODO:: 지도 주소랑 계좌번호 수정
 
 // account
 // Add your javascript here
 // Don't forget to add it into respective layouts where this js file is needed
 d = new Date();
 $(document).ready(function () {
-    $(".grm_account_bank").html("KB국민");
-    $(".brd_account_bank").html("NH농협");
-    $(".grm_account_num").text("208401 04 273636");
-    $(".brd_account_num").text("811091 52 0822 56");
+    $(".grm_account_bank").html("NH농협");
+    $(".brd_account_bank").html("신한");
+    $(".grm_account_num").text("351 1194 7150 13");
+    $(".brd_account_num").text("100-026-647448");
     $(".GroomAccountName").text("김태성");
     $(".BrideAccountName").text("윤영순");
     $(".GroomAccountRelation").text("혼주");
     $(".BrideAccountRelation").text("혼주");
 
     $(".grm_account_bank2").html("NH농협");
-    $(".brd_account_bank2").html("NH농협");
+    $(".brd_account_bank2").html("KB국민");
     $(".grm_account_num2").text("312 0004 8586 41");
-    $(".brd_account_num2").text("312 0204 6512 61");
+    $(".brd_account_num2").text("437601 01 401850");
     $(".GroomAccountName2").text("김기영");
     $(".BrideAccountName2").text("유희원");
     $(".GroomAccountRelation2").text("신랑");
