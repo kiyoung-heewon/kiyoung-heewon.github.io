@@ -19,7 +19,7 @@ $(document).ready(function () {
     $(".grm_account_bank").html("NH농협");
     $(".brd_account_bank").html("신한");
     $(".grm_account_num").text("351 1194 7150 13");
-    $(".brd_account_num").text("100-026-647448");
+    $(".brd_account_num").text("100 026 647448");
     $(".GroomAccountName").text("김태성");
     $(".BrideAccountName").text("윤영순");
     $(".GroomAccountRelation").text("혼주");
