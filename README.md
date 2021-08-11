@@ -9,8 +9,13 @@
 * 장소: 서울 관악구 관악로 1 서울대학교 호암교수회관 (낙성대 4번출구에서 관악 02로 약 5분)
 * 청첩장: https://kiyoung-heewon.github.io
 
-## git page에 바로 업데이트 하기 위해서는 git cache를 삭제해 줘야함
+
+For developer:
+1. git page에 바로 업데이트 하기 위해서는 git cache를 삭제해 줘야함
 git rm -r --cached .
 git add .
 git commit -m "git cache cleared"
 git push
+
+2. 카카오 공유시 썸네일 업데이트
+카카오에서 오픈그래프 삭제를 시켜주고 잠시 지나야 반영됨
