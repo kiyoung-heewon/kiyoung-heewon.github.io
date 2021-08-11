@@ -10,12 +10,12 @@
 * 청첩장: https://kiyoung-heewon.github.io
 
 
-For developer:
-1. git page에 바로 업데이트 하기 위해서는 git cache를 삭제해 줘야함
-git rm -r --cached .
-git add .
-git commit -m "git cache cleared"
-git push
+### For developer:
+* git page에 바로 업데이트 하기 위해서는 git cache를 삭제해 줘야함    
+git rm -r --cached .    
+git add .    
+git commit -m "git cache cleared"    
+git push    
 
-2. 카카오 공유시 썸네일 업데이트
+* 카카오 공유시 썸네일 업데이트    
 카카오에서 오픈그래프 삭제를 시켜주고 잠시 지나야 반영됨
